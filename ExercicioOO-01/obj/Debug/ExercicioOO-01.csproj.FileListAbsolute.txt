@@ -1,0 +1,6 @@
+C:\Users\Heliton\source\repos\ExercicioOO-01\ExercicioOO-01\bin\Debug\ExercicioOO-01.exe.config
+C:\Users\Heliton\source\repos\ExercicioOO-01\ExercicioOO-01\bin\Debug\ExercicioOO-01.exe
+C:\Users\Heliton\source\repos\ExercicioOO-01\ExercicioOO-01\bin\Debug\ExercicioOO-01.pdb
+C:\Users\Heliton\source\repos\ExercicioOO-01\ExercicioOO-01\obj\Debug\ExercicioOO-01.csprojAssemblyReference.cache
+C:\Users\Heliton\source\repos\ExercicioOO-01\ExercicioOO-01\obj\Debug\ExercicioOO-01.exe
+C:\Users\Heliton\source\repos\ExercicioOO-01\ExercicioOO-01\obj\Debug\ExercicioOO-01.pdb
